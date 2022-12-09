@@ -1,13 +1,12 @@
 /*
- * 4 - puts.c
- * By mwasaha
+ * File: 4 - puts.c
  */
 
 #include <stdio.h>
 
  /*
- * The main function starts here
- * Return 0
+ * main - Entry point
+ * Return: 0
  */
 	int main(void)
 	{
