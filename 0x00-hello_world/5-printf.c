@@ -1,10 +1,8 @@
-#!/bin/bash
-
 #include <stdio.h>
 /*
  * main function.
- * execution startts from this point
- *return (0)
+ * print some string
+ *return 0
  */
 
 int main(void)
