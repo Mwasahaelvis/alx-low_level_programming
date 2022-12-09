@@ -1,9 +1,14 @@
-# !/ bin / bash
+#!/bin/bash
 
-#include < stdio.h >
+#include <stdio.h>
+/*
+ * main function.
+ * execution startts from this point
+ *return (0)
+ */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,"\n);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
