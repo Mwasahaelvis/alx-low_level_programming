@@ -12,6 +12,6 @@ int main(void)
 		putchar(kar);
 	for (kar = 'A'; kar <= 'Z'; kar++)
 		putchar(kar);
-	pitchar('\n');
+	putchar('\n');
 	return (0);
 }
