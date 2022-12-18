@@ -1,4 +1,3 @@
-3-islower.c
 #include "main.h"
 
 /**
