@@ -9,6 +9,7 @@
  * @argv: array of arguments
  *
  * Return: 0 (Success), 1 (Error)
+ * end
  */
 int main(int argc, char *argv[])
 {
